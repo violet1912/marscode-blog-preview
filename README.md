@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 # marscode-blog-preview
 marscode&amp;VitePress创建博客
-=======
 <h1 align="center"> VitePress @sugarat/theme </h1>
 
 <p align="center">
@@ -71,4 +69,3 @@ export default defineConfig({
 ④ 推送 `main` 分支即可
 
 需要进一步修改部署和构建配置，详见`deploy.yml` 文件。
->>>>>>> 2e78eda (first commit)
